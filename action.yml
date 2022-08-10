@@ -1,4 +1,4 @@
-name: Open GitHub issue
+name: Open GitHub issue (by tr325)
 author: Tom Renner
 description: "Opens a GitHub issue -- a learning excercise from tr325"
 inputs:
