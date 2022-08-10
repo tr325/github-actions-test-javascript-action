@@ -18,3 +18,7 @@ outputs:
 runs:
   using: "node12"
   main: "dist/index.js"
+# For branding in the GitHub Marketplace
+branding:
+  icon: "alert-octagon"
+  color: "purple"
