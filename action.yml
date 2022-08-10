@@ -1,6 +1,6 @@
 name: Open GitHub issue
 author: Tom Renner
-description: "Opens a GitHub issue"
+description: "Opens a GitHub issue -- a learning excercise from tr325"
 inputs:
   token:
     description: "Github Token"
